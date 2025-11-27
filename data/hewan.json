@@ -1,0 +1,34 @@
+[
+    {
+        "id": "69286d494a65c",
+        "nama": "Harimau",
+        "umur": "10",
+        "jenis": "Mamalia",
+        "keterangan": "hewan ganas",
+        "gambar": "69286d49477c4.jpeg"
+    },
+    {
+        "id": "69286f178f0ac",
+        "nama": "Elang",
+        "umur": "20",
+        "jenis": "Burung",
+        "keterangan": "pemangsa udara",
+        "gambar": "69286f178e7df.jpeg"
+    },
+    {
+        "id": "692870f01c556",
+        "nama": "Buaya",
+        "umur": "30",
+        "jenis": "Reptil",
+        "keterangan": "buaya darat",
+        "gambar": "692870f01c28e.jpg"
+    },
+    {
+        "id": "69287214b1ea7",
+        "nama": "Hiu",
+        "umur": "100",
+        "jenis": "Ikan",
+        "keterangan": "hiu ganas",
+        "gambar": "69287214b1c08.jpg"
+    }
+]
